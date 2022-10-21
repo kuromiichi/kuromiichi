@@ -30,6 +30,11 @@ Empleo distintos lenguajes y tecnologías:
 
 <br><br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br><br>
+
 <div align="center">
     <h2>Contacto</h2>
     <a href="https://www.linkedin.com/in/alex-fern%C3%A1ndez-barranco-583881251/">
