@@ -58,7 +58,10 @@ GitIgnore file   37 mins         >·······················
 
 <div align="center">
     <h2>Contacto</h2>
-    <a href="https://www.linkedin.com/in/alex-fern%C3%A1ndez-barranco-583881251/">
+    <a href="https://www.linkedin.com/in/emma-fern%C3%A1ndez-barranco-583881251/">
         <img src="./icons/linkedin-original.svg" width=5%>
+    </a>
+    <a href="https://twitter.com/emmalikescoding">
+        <img src="./icons/Twitter-logo.svg" width=5%>
     </a>
 </div>
