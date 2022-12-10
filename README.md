@@ -6,7 +6,11 @@
 
 ## Sobre mí
 
-Hola, soy Alex. Actualmente soy estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma en el IES Luis Vives de Leganés. Anteriormente estudié Diseño y Desarrollo de Videojuegos e Ingeniería de Computadores en la URJC, e Ingeniería Informática en la UC3M.
+Hola, soy **Emma**. Actualmente soy estudiante de 1º de _Desarrollo de Aplicaciones Multiplataforma_ en el IES Luis Vives de Leganés. Anteriormente estudié _Diseño y Desarrollo de Videojuegos e Ingeniería de Computadores_ en la URJC, e _Ingeniería Informática_ en la UC3M.
+
+Desde pequeña me ha interesado la tecnología y he estado siempre pegada a un ordenador. Me encanta trastear con distintos programas y sistemas operativos, y aunque no siempre entiendo lo que estoy haciendo, lo tomo como una oportunidad para aprender cosas nuevas.
+
+En mi tiempo libre me dedico a jugar videojuegos (soy un poco friki), aprender sobre nuevas tecnologías y resolver cubos de Rubik (mi récord es de 6 segundos).
 
 <br>
 
@@ -20,8 +24,11 @@ Empleo distintos lenguajes y tecnologías:
     <img src="./icons/java-original.svg" width=7% />
     <img src="./icons/kotlin-original.svg" width=7% />
     <img src="./icons/markdown-original.png" width=7% />
+    <img src="./icons/Xml_logo.svg" width=7% />
+    <img src="./icons/JSON_vector_logo.svg" width=7% />
     <img src="./icons/vscode-original.svg" width=7% />
     <img src="./icons/intellij-original.svg" width=7% />
+    <img src="./icons/Vimlogo.svg" width=7% />
     <img src="./icons/git-original.svg" width=7% />
     <img src="./icons/github-original.png" width=7% />
     <img src="./icons/gitkraken.svg" width=7% />
