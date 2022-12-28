@@ -40,16 +40,16 @@ Empleo distintos lenguajes y tecnologías:
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2022 - To: 25 December 2022
+From: 26 November 2022 - To: 26 December 2022
 
-Total Time: 29 hrs 51 mins
+Total Time: 30 hrs 39 mins
 
-Kotlin           15 hrs 23 mins  #############············   51.53 %
-Java             7 hrs 33 mins   ######>··················   25.33 %
-Markdown         3 hrs 44 mins   ###······················   12.50 %
-Python           1 hr 58 mins    #>·······················   06.60 %
-GitIgnore file   31 mins         >························   01.77 %
-XML              29 mins         >························   01.65 %
+Kotlin           15 hrs 23 mins  ############>············   50.21 %
+Java             8 hrs 19 mins   #######··················   27.17 %
+Markdown         3 hrs 44 mins   ###······················   12.18 %
+Python           1 hr 58 mins    #>·······················   06.43 %
+GitIgnore file   32 mins         >························   01.77 %
+XML              29 mins         >························   01.61 %
 ```
 
 <!--END_SECTION:waka-->
