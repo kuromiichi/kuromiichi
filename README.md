@@ -23,14 +23,14 @@ Empleo distintos lenguajes y tecnologías:
     <img src="./icons/c-original.svg" width=7% />
     <img src="./icons/java-original.svg" width=7% />
     <img src="./icons/kotlin-original.svg" width=7% />
-    <img src="./icons/markdown-original.png" width=7% />
+    <img src="./icons/markdown.png" width=7% />
     <img src="./icons/Xml_logo.svg" width=7% />
     <img src="./icons/JSON_vector_logo.svg" width=7% />
     <img src="./icons/vscode-original.svg" width=7% />
     <img src="./icons/intellij-original.svg" width=7% />
     <img src="./icons/Vimlogo.svg" width=7% />
     <img src="./icons/git-original.svg" width=7% />
-    <img src="./icons/github-original.png" width=7% />
+    <img src="./icons/github.svg" width=7% />
     <img src="./icons/gitkraken.svg" width=7% />
     <img src="./icons/tabnine.png" width=7% />
 </div>
