@@ -40,9 +40,9 @@ Empleo distintos lenguajes y tecnologías:
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 December 2022 - To: 09 January 2023
+From: 11 December 2022 - To: 10 January 2023
 
-Total Time: 20 hrs 55 mins
+Total Time: 20 hrs 56 mins
 
 Java             11 hrs 8 mins   #############>···········   53.25 %
 Kotlin           6 hrs 6 mins    #######>·················   29.19 %
