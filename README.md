@@ -19,24 +19,60 @@ En mi tiempo libre me dedico a jugar videojuegos (soy un poco friki), aprender s
 Empleo distintos lenguajes y tecnologías:
 
 <div align="center">
-    <img src="./icons/java-original.svg" width=7% />
-    <img src="./icons/kotlin-original.svg" width=7% />
-    <img src="./icons/python-original.svg" width=7% />
-    <img src="./icons/c-original.svg" width=7% />
-    <img src="./icons/markdown.png" width=7% />
-    <img src="./icons/Xml_logo.svg" width=7% />
-    <img src="./icons/JSON_vector_logo.svg" width=7% />
-    <img src="./icons/mysql-icon.svg", width=7% />
-    <img src="./icons/mariadb.svg", width=7% />
-    <img src="./icons/vscode-original.svg" width=7% />
-    <img src="./icons/intellij-original.svg" width=7% />
-    <img src="./icons/DataGrip.svg", width=7% />
-    <img src="./icons/virtualbox-icon.svg", width=7% />
-    <img src="./icons/Vimlogo.svg" width=7% />
-    <img src="./icons/git-original.svg" width=7% />
-    <img src="./icons/github.svg" width=7% />
-    <img src="./icons/gitkraken.svg" width=7% />
-    <img src="./icons/tabnine.png" width=7% />
+    <a href="https://www.java.com/en/">
+        <img src="./icons/java-original.svg" width=7% />
+    </a>
+    <a href="https://kotlinlang.org">
+        <img src="./icons/kotlin-original.svg" width=7% />
+    </a>
+    <a href="https://python.org">
+        <img src="./icons/python-original.svg" width=7% />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="./icons/c-original.svg" width=7% />
+    </a>
+    <a href="https://www.markdownguide.org/">
+        <img src="./icons/markdown.png" width=7% />
+    </a>
+    <a href="https://www.w3.org/XML/">
+        <img src="./icons/Xml_logo.svg" width=7% />
+    </a>
+    <a href="https://www.json.org/json-en.html">
+        <img src="./icons/JSON_vector_logo.svg" width=7% />
+    </a>
+    <a href="https://www.mysql.com">
+        <img src="./icons/mysql-icon.svg", width=7% />
+    </a>
+    <a href="https://mariadb.org">
+        <img src="./icons/mariadb.svg", width=7% />
+    </a>
+    <a href="https://code.visualstudio.com">
+        <img src="./icons/vscode-original.svg" width=7% />
+    </a>
+    <a href="https://www.jetbrains.com/idea">
+        <img src="./icons/intellij-original.svg" width=7% />
+    </a>
+    <a href="https://www.jetbrains.com/datagrip">
+        <img src="./icons/DataGrip.svg", width=7% />
+    </a>
+    <a href="https://www.virtualbox.org">
+        <img src="./icons/virtualbox-icon.svg", width=7% />
+    </a>
+    <a href="https://www.vim.org">
+        <img src="./icons/Vimlogo.svg" width=7% />
+    </a>
+    <a href="https://git-scm.com">
+        <img src="./icons/git-original.svg" width=7% />
+    </a>
+    <a href="https://github.com">
+        <img src="./icons/github.svg" width=7% />
+    </a>
+    <a href="https://www.gitkraken.com">
+        <img src="./icons/gitkraken.svg" width=7% />
+    </a>
+    <a href="https://www.tabnine.com">
+        <img src="./icons/tabnine.png" width=7% />
+    </a>
 </div>
 
 <br><br>
