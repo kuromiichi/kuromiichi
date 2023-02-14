@@ -80,9 +80,9 @@ Empleo distintos lenguajes y tecnologías:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 11 February 2023
+From: 13 January 2023 - To: 12 February 2023
 
-Total Time: 29 hrs 46 mins
+Total Time: 29 hrs 47 mins
 
 Kotlin           12 hrs 22 mins  ##########>··············   41.53 %
 Markdown         10 hrs 29 mins  #########················   35.24 %
