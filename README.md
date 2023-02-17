@@ -80,16 +80,16 @@ Empleo distintos lenguajes y tecnologías:
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 14 February 2023
+From: 16 January 2023 - To: 15 February 2023
 
-Total Time: 30 hrs 23 mins
+Total Time: 28 hrs 4 mins
 
-Kotlin           13 hrs 30 mins  ###########··············   44.44 %
-Markdown         11 hrs 31 mins  #########>···············   37.94 %
-Java             2 hrs 19 mins   ##·······················   07.67 %
-SQL              1 hr 28 mins    #························   04.86 %
-XML              1 hr            #························   03.30 %
-Other            19 mins         >························   01.09 %
+Kotlin           16 hrs 11 mins  ##############>··········   57.67 %
+Markdown         9 hrs 35 mins   ########>················   34.14 %
+SQL              1 hr 25 mins    #>·······················   05.06 %
+Java             30 mins         >························   01.80 %
+GitIgnore file   21 mins         >························   01.28 %
+JSON             0 secs          ·························   00.05 %
 ```
 
 <!--END_SECTION:waka-->
