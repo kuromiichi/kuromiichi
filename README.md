@@ -10,7 +10,11 @@ Hola, soy **Emma**. Actualmente soy estudiante de 1º de _Desarrollo de Aplicaci
 
 Desde pequeña me ha interesado la tecnología y he estado siempre pegada a un ordenador. Me encanta trastear con distintos programas y sistemas operativos, y aunque no siempre entiendo lo que estoy haciendo, lo tomo como una oportunidad para aprender cosas nuevas.
 
+Hablo español e inglés, y disfruto aprendiendo otros idiomas. Me gusta mucho el japonés aunque se me atasca un poco (todo sea por ver anime sin subtítulos). En su momento aprendí esperanto pero se me ha olvidado todo.
+
 En mi tiempo libre me dedico a jugar videojuegos (soy un poco friki), aprender sobre nuevas tecnologías y resolver cubos de Rubik (mi récord es de 6 segundos).
+
+_~ I use Arch btw ~_
 
 <br>
 
