@@ -31,8 +31,14 @@ Empleo distintos lenguajes y tecnologías:
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
         <img src="./icons/c-original.svg" width=7% />
     </a>
+    <a href="https://archlinux.org">
+        <img src="./icons/Archlinux-icon-crystal-64.svg" width=7%>
+    </a>
     <a href="https://www.markdownguide.org/">
         <img src="./icons/markdown.png" width=7% />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="./icons/HTML5-Logo.svg" width=7% />
     </a>
     <a href="https://www.w3.org/XML/">
         <img src="./icons/Xml_logo.svg" width=7% />
