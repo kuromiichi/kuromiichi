@@ -90,7 +90,7 @@ Empleo distintos lenguajes y tecnologías:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 February 2023 - To: 13 March 2023
+From: 12 February 2023 - To: 14 March 2023
 
 Total Time: 36 hrs 53 mins
 
