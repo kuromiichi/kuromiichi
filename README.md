@@ -44,6 +44,12 @@ Empleo distintos lenguajes y tecnologías:
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="./icons/HTML5-Logo.svg" width=7% />
     </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS">
+        <img src="./icons/CSS_logo.svg" width=7% />
+    </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+        <img src="./icons/JavaScript-logo.png" width=7% />
+    </a>
     <a href="https://www.w3.org/XML/">
         <img src="./icons/Xml_logo.svg" width=7% />
     </a>
@@ -55,6 +61,9 @@ Empleo distintos lenguajes y tecnologías:
     </a>
     <a href="https://mariadb.org">
         <img src="./icons/mariadb.svg", width=7% />
+    </a>
+    <a href="https://sqlite.org">
+        <img src="./icons/sqlite-icon.svg", width=7% />
     </a>
     <a href="https://code.visualstudio.com">
         <img src="./icons/vscode-original.svg" width=7% />
