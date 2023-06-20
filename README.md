@@ -99,15 +99,15 @@ Empleo distintos lenguajes y tecnologías:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2023 - To: 17 June 2023
+From: 19 May 2023 - To: 18 June 2023
 
-Total Time: 39 hrs 3 mins
+Total Time: 35 hrs 37 mins
 
-Kotlin           31 hrs 40 mins  ####################>····   81.11 %
-SQL              3 hrs 59 mins   ##>······················   10.23 %
-XML              54 mins         >························   02.33 %
-Groovy           36 mins         >························   01.58 %
-Properties       36 mins         >························   01.54 %
+Kotlin           31 hrs 39 mins  ######################···   88.87 %
+XML              54 mins         >························   02.55 %
+Groovy           36 mins         >························   01.73 %
+Properties       36 mins         >························   01.69 %
+SQL              35 mins         >························   01.68 %
 ```
 
 <!--END_SECTION:waka-->
