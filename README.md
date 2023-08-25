@@ -99,15 +99,15 @@ Empleo distintos lenguajes y tecnologías:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2023 - To: 22 August 2023
+From: 24 July 2023 - To: 23 August 2023
 
-Total Time: 2 hrs 50 mins
+Total Time: 3 hrs 51 mins
 
-Rust         2 hrs 17 mins   ####################·····   80.51 %
-Kotlin       20 mins         ###······················   12.29 %
-TSQL         5 mins          #························   03.01 %
-TOML         4 mins          >························   02.74 %
-Text         1 min           ·························   00.65 %
+Rust             2 hrs 36 mins   #################········   67.70 %
+Text             33 mins         ###>·····················   14.39 %
+Kotlin           21 mins         ##>······················   09.38 %
+TOML             8 mins          #························   03.48 %
+TSQL             5 mins          >························   02.22 %
 ```
 
 <!--END_SECTION:waka-->
