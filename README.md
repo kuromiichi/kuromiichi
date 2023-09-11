@@ -99,13 +99,13 @@ Empleo distintos lenguajes y tecnologías:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 08 September 2023
+From: 10 August 2023 - To: 09 September 2023
 
 Total Time: 6 hrs 43 mins
 
-Rust             4 hrs 19 mins   ################·········   64.31 %
+Rust             4 hrs 19 mins   ################·········   64.29 %
 Kotlin           43 mins         ##>······················   10.84 %
-Objective-C      33 mins         ##·······················   08.29 %
+Objective-C      33 mins         ##·······················   08.28 %
 Text             32 mins         ##·······················   07.96 %
 GitIgnore file   8 mins          >························   02.05 %
 ```
