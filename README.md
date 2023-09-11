@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-Hola, soy **Emma**. Actualmente soy estudiante de 1º de _Desarrollo de Aplicaciones Multiplataforma_ en el IES Luis Vives de Leganés. Anteriormente estudié _Diseño y Desarrollo de Videojuegos e Ingeniería de Computadores_ en la URJC, e _Ingeniería Informática_ en la UC3M.
+Hola, soy **Emma**. Actualmente soy estudiante de 2º de _Desarrollo de Aplicaciones Multiplataforma_ en el IES Luis Vives de Leganés. Anteriormente estudié _Diseño y Desarrollo de Videojuegos e Ingeniería de Computadores_ en la URJC, e _Ingeniería Informática_ en la UC3M.
 
 Desde pequeña me ha interesado la tecnología y he estado siempre pegada a un ordenador. Me encanta trastear con distintos programas y sistemas operativos, y aunque no siempre entiendo lo que estoy haciendo, lo tomo como una oportunidad para aprender cosas nuevas.
 
