@@ -99,15 +99,15 @@ Empleo distintos lenguajes y tecnologías:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2023 - To: 15 September 2023
+From: 17 August 2023 - To: 16 September 2023
 
-Total Time: 8 hrs 38 mins
+Total Time: 6 hrs 10 mins
 
-Rust             4 hrs 19 mins   ############>············   50.09 %
-XML              1 hr 12 mins    ###>·····················   14.08 %
-Kotlin           1 hr            ###······················   11.66 %
-Objective-C      33 mins         #>·······················   06.45 %
-Text             32 mins         #>·······················   06.20 %
+Rust             2 hrs 2 mins    ########>················   33.10 %
+XML              1 hr 12 mins    #####····················   19.71 %
+Kotlin           1 hr            ####·····················   16.32 %
+Objective-C      33 mins         ##>······················   09.04 %
+Text             32 mins         ##·······················   08.68 %
 ```
 
 <!--END_SECTION:waka-->
