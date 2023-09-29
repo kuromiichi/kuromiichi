@@ -35,6 +35,9 @@ Empleo distintos lenguajes y tecnologías:
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
         <img src="./icons/c-original.svg" width=7% />
     </a>
+    <a href="https://www.rust-lang.org/">
+        <img src="./icons/rust.svg" width=7% />
+    </a>
     <a href="https://archlinux.org">
         <img src="./icons/Archlinux-icon-crystal-64.svg" width=7%>
     </a>
