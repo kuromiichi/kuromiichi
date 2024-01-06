@@ -102,15 +102,15 @@ Empleo distintos lenguajes y tecnologías:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2023 - To: 03 January 2024
+From: 05 December 2023 - To: 04 January 2024
 
-Total Time: 41 hrs 21 mins
+Total Time: 40 hrs 7 mins
 
-Kotlin            18 hrs 25 mins  ###########··············   44.55 %
-Rust              7 hrs 43 mins   ####>····················   18.66 %
-C#                3 hrs 33 mins   ##·······················   08.59 %
-XML               3 hrs 29 mins   ##·······················   08.44 %
-Java              3 hrs 23 mins   ##·······················   08.21 %
+Kotlin            15 hrs 53 mins  ##########···············   39.60 %
+Rust              7 hrs 43 mins   #####····················   19.24 %
+XML               4 hrs 51 mins   ###······················   12.12 %
+C#                3 hrs 33 mins   ##·······················   08.85 %
+Java              3 hrs 23 mins   ##·······················   08.46 %
 ```
 
 <!--END_SECTION:waka-->
