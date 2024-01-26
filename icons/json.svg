@@ -1,0 +1,15 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="JSON" role="img" viewBox="0 0 512 512" width="800px" height="800px" fill="#000000" style="--darkreader-inline-fill: #000000;" data-darkreader-inline-fill="">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier">
+<rect width="512" height="512" rx="15%" fill="#77767b" style="--darkreader-inline-fill: #5b6266;" data-darkreader-inline-fill=""/>
+<linearGradient id="a" x1=".175" y1=".15" x2="1" y2=".85">
+<stop offset="0"/>
+<stop offset="1" stop-color="#77767b" style="--darkreader-inline-stopcolor: #5b6266;" data-darkreader-inline-stopcolor=""/>
+</linearGradient>
+<path id="b" fill="url(#a)" d="M256 64c-99 0-192 81-192 192 0 123 102 192 192 192-21 0-125-23-125-166 0-89 73-139 125-119 0 0 56 21 56 93s-56 93-56 93c51 20 125-27 125-119 0-129-87-166-125-166z"/>
+<use transform="rotate(180 256 256)" href="#b"/>
+</g>
+</svg>
