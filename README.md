@@ -145,15 +145,15 @@ Empleo distintos lenguajes y tecnologías para mis proyectos:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2024 - To: 10 February 2024
+From: 12 January 2024 - To: 11 February 2024
 
-Total Time: 83 hrs 4 mins
+Total Time: 90 hrs 21 mins
 
-Java             23 hrs 32 mins  #######··················   28.33 %
-Python           15 hrs 7 mins   ####>····················   18.21 %
-XAML             11 hrs 32 mins  ###>·····················   13.90 %
-Kotlin           9 hrs 32 mins   ###······················   11.48 %
-XML              6 hrs 44 mins   ##·······················   08.12 %
+Java             23 hrs 32 mins  ######>··················   26.05 %
+Python           14 hrs 42 mins  ####·····················   16.28 %
+XAML             13 hrs 34 mins  ####·····················   15.03 %
+C#               11 hrs 36 mins  ###······················   12.84 %
+Kotlin           9 hrs 32 mins   ##>······················   10.56 %
 ```
 
 <!--END_SECTION:waka-->
