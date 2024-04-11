@@ -145,15 +145,15 @@ Empleo distintos lenguajes y tecnologías para mis proyectos:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2024 - To: 08 April 2024
+From: 11 March 2024 - To: 10 April 2024
 
-Total Time: 12 hrs 58 mins
+Total Time: 7 hrs 7 mins
 
-Python       10 hrs 8 mins   ###################>·····   78.13 %
-YAML         1 hr 20 mins    ##>······················   10.35 %
-Bash         41 mins         #>·······················   05.31 %
-Docker       24 mins         #························   03.11 %
-Text         11 mins         >························   01.47 %
+Python   6 hrs 14 mins   ######################···   87.54 %
+YAML     29 mins         #>·······················   06.79 %
+Bash     21 mins         #>·······················   05.04 %
+Docker   2 mins          ·························   00.60 %
+Text     0 secs          ·························   00.03 %
 ```
 
 <!--END_SECTION:waka-->
