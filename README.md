@@ -145,15 +145,15 @@ Empleo distintos lenguajes y tecnologías para mis proyectos:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2024 - To: 11 June 2024
+From: 13 May 2024 - To: 12 June 2024
 
-Total Time: 11 hrs 41 mins
+Total Time: 19 hrs 51 mins
 
-Kotlin           10 hrs 21 mins  ######################···   88.64 %
-SqlDelight       49 mins         #>·······················   06.99 %
-XML              14 mins         >························   02.12 %
-GitIgnore file   8 mins          >························   01.16 %
-Other            6 mins          ·························   00.92 %
+Kotlin           17 hrs 49 mins  ######################>··   89.77 %
+SqlDelight       1 hr 22 mins    #>·······················   06.95 %
+XML              15 mins         >························   01.27 %
+Text             9 mins          ·························   00.78 %
+GitIgnore file   8 mins          ·························   00.68 %
 ```
 
 <!--END_SECTION:waka-->
