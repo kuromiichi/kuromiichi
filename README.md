@@ -145,13 +145,12 @@ Empleo distintos lenguajes y tecnologías para mis proyectos:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2024 - To: 16 November 2024
+From: 19 October 2024 - To: 18 November 2024
 
-Total Time: 37 mins
+Total Time: 16 mins
 
-Java      20 mins         ##############···········   55.55 %
-JSON      12 mins         ########>················   33.21 %
-Nushell   4 mins          ###······················   11.24 %
+JSON      12 mins         ##################>······   74.71 %
+Nushell   4 mins          ######>··················   25.29 %
 ```
 
 <!--END_SECTION:waka-->
