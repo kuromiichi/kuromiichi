@@ -145,11 +145,11 @@ Empleo distintos lenguajes y tecnologías para mis proyectos:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2025 - To: 22 February 2025
+From: 24 January 2025 - To: 23 February 2025
 
-Total Time: 4 mins
+Total Time: 0 secs
 
-Nushell   4 mins          #########################   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
