@@ -145,15 +145,15 @@ Empleo distintos lenguajes y tecnologías para mis proyectos:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2025 - To: 22 June 2025
+From: 24 May 2025 - To: 23 June 2025
 
-Total Time: 10 hrs 11 mins
+Total Time: 9 hrs 37 mins
 
-Python       6 hrs 7 mins    ###############··········   60.09 %
-Kotlin       1 hr 32 mins    ####·····················   15.19 %
-Java         1 hr 3 mins     ##>······················   10.44 %
-Other        38 mins         #>·······················   06.24 %
-Nushell      25 mins         #························   04.20 %
+Python       4 hrs 54 mins   ############>············   50.93 %
+Kotlin       1 hr 32 mins    ####·····················   16.09 %
+Nushell      1 hr 7 mins     ###······················   11.63 %
+Java         1 hr 3 mins     ###······················   11.06 %
+Other        38 mins         #>·······················   06.61 %
 ```
 
 <!--END_SECTION:waka-->
