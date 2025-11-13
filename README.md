@@ -145,15 +145,15 @@ Empleo distintos lenguajes y tecnologías para mis proyectos:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2025 - To: 10 November 2025
+From: 13 October 2025 - To: 12 November 2025
 
-Total Time: 29 mins
+Total Time: 22 mins
 
-XML          8 mins          #######>·················   30.04 %
-Java         7 mins          ######···················   24.70 %
-Other        7 mins          ######···················   24.26 %
-Nushell      5 mins          #####····················   20.07 %
-Git Config   0 secs          ·························   00.92 %
+XML          8 mins          ##########···············   39.48 %
+Java         7 mins          ########·················   32.45 %
+Nushell      5 mins          ######>··················   26.37 %
+Git Config   0 secs          >························   01.21 %
+Other        0 secs          ·························   00.47 %
 ```
 
 <!--END_SECTION:waka-->
