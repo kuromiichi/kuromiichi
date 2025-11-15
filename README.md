@@ -145,7 +145,7 @@ Empleo distintos lenguajes y tecnologías para mis proyectos:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2025 - To: 12 November 2025
+From: 14 October 2025 - To: 13 November 2025
 
 Total Time: 22 mins
 
