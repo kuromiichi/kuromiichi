@@ -145,12 +145,12 @@ Empleo distintos lenguajes y tecnologías para mis proyectos:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2025 - To: 05 December 2025
+From: 06 November 2025 - To: 06 December 2025
 
 Total Time: 50 mins
 
-Markdown   30 mins         ###############··········   60.01 %
-Python     19 mins         ##########···············   39.12 %
+Markdown   30 mins         ###############··········   59.98 %
+Python     19 mins         ##########···············   39.15 %
 Other      0 secs          ·························   00.87 %
 ```
 
