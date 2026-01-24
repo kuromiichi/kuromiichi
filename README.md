@@ -145,11 +145,13 @@ Empleo distintos lenguajes y tecnologías para mis proyectos:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 21 January 2026
+From: 23 December 2025 - To: 22 January 2026
 
-Total Time: 0 secs
+Total Time: 59 mins
 
-No activity tracked
+TOML     32 mins         #############>···········   53.77 %
+Python   25 mins         ###########··············   43.12 %
+JSON     1 min           #························   03.11 %
 ```
 
 <!--END_SECTION:waka-->
